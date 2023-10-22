@@ -8,17 +8,17 @@ This is the final project for the NTU 2020 Fall Object-Oriented Programming Lang
 
 ### Player
 
-![](Player_1.GIF)
-![](Player_2.GIF)
+![](src/docs/Player_1.GIF)
+![](src/docs/Player_2.GIF)
 
 ### Banker
 
-![](Banker_1.GIF)
-![](Banker_2.GIF)
+![](src/docs/Banker_1.GIF)
+![](src/docs/Banker_2.GIF)
 
 ### Full House or Better
 
-![](Full_House_or_Better.GIF)
+![](src/docs/Full_House_or_Better.GIF)
 
 ## Reference
 
